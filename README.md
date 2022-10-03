@@ -1,3 +1,5 @@
+# React owl carousel example with import and custom links of image
+Don't forget to add <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script> in html file
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
